@@ -1,0 +1,7 @@
+NumPy      -   1.24.3
+Pandas       -   1.5.3
+Matplotlib  -   3.7.1
+Seaborn     -    0.12.2
+Streamlit   -    1.37.0
+Plotly        -     5.9.0
+Altair        -     5.3,0
