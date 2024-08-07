@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 chart_data= pd.DataFrame(np.random.randn(20,3), columns = ['Line-1', 'Line-2', 'Line-3'])
 st.header('Chart_Data Table')
